@@ -1,4 +1,4 @@
-# home-WebGL-movingBall-smeerws
+# home-WebGL-movingBall-lschnaitl
 
 ### Project description: 
 This simple project consists of a screen-independent canvas (960x600), 
