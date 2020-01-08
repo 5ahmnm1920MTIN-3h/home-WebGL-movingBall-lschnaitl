@@ -1,4 +1,5 @@
 # home-WebGL-movingBall-lschnaitl
+[**Click here to play**](https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-lschnaitl/)
 
 ### Project description: 
 This simple project consists of a screen-independent canvas (960x600), 
