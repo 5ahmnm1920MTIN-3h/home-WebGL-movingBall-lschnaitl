@@ -21,11 +21,6 @@ There are 2 different variations for moving the ball to the positions randomly.
 WebGL incl. reference resolution 960x600 
 
 ### Visuals: 
-<div>
-<img src = "./Screenshots/sketch-moving-ball.jpg" width = "500">
-</div>
-
-<a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-smeerws/">Reference WebGL Build for moving ball</a>
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions so that I can run the project after cloning it.
