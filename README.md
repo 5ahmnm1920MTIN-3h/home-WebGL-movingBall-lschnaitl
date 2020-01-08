@@ -1,28 +1,50 @@
-# Template Repository for Unity2D version 2019.1.14f1
+# home-WebGL-movingBall-smeerws
 
 ### Project description: 
-Introduction/Project summary 
+This simple project consists of a screen-independent canvas (960x600), 
+a button (Move Ball), a text (title with developer name), a script (moving the ball with the button), 
+and a GameObjects ball (sprite2d imported)
+
+When pressing the button "Move Ball" the ball moves randomly to a new position. 
+4 Positions are available (4 empty GameObjects: PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight).
+There are 2 different variations for moving the ball to the positions randomly.
+* Variation 1: direct repetition of the randomly chosen position is possible.
+* Variation 2: the randomly chosen position is forced to be different, i.e. new position != old position  
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* Windows 10 64 bit; 
+* Unity Version: 2019.1.14f1; 
+* Visual Studio Version: Microsoft Visual Studio Community 2019, Version 16.4.2;
+* Scripting Runtime Version: 4.X;
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL incl. reference resolution 960x600 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src = "./Screenshots/sketch-moving-ball.jpg" width = "500">
+</div>
+
+<a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-smeerws/">Reference WebGL Build for moving ball</a>
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Installation process, e.g. step by step instructions so that I can run the project after cloning it.
+
+WebGL has to be installed.
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+(if used: Fonts, Sounds, Music, Graphics, Materials, Code, etc.)
+<a href="https://de.freepik.com/fotos-vektoren-kostenlos/sport">Sport Vektor erstellt von kreativkolors - de.freepik.com</a>
 
 ### Project state: 
 incl. progress in percent
 
+100%
+
 ### Limitations: 
+None
 
 ### Lessons Learned: 
 
-Copyright by you :)
+
+Copyright by Leonhard Schnaitl
